@@ -1,14 +1,7 @@
 public class ThreadMaker {
 
 	public static void main(String[] args) {
-		// t1.run(); DOESN'T WORK FOR GOOD REASON
-
-		/*
-		 * 
-		 * In the main method of the ThreadMaker class, instantiate an object of
-		 * the RunnableImplementer class somewhere before the for loop.
-		 */
-
+	
 		NumberPrinter np = new NumberPrinter();
 		
 	
