@@ -1,9 +1,5 @@
 /**
  * Jarred Price 
- * Instructor: Dr. Kiper 
- * CSE 211
- *
- * 17 February 2015.
  * 
  * This program uses JUnit to test the Complex numbers class.
  *
