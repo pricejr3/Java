@@ -1,0 +1,7 @@
+begin
+times	=	4
+dist = 2
+loop dist
+begin
+forward times
+end
